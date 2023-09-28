@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="250" src="[https://img.freepik.com/free-vector/programmer-working-flat-style_52683-15041.jpg?size=626&ext=jpg](https://img.freepik.com/free-vector/blogging-concept-illustration_114360-1038.jpg?size=626&ext=jpg)"  />
+<img align="right" height="250" src="https://img.freepik.com/free-vector/blogging-concept-illustration_114360-1038.jpg?w=1380&t=st=1695897069~exp=1695897669~hmac=52aa52017f19bd9170f81feaa8fa0df94e8512d409b01902a0381ead6569d575"  />
 
 ###
 

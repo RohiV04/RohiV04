@@ -1,5 +1,5 @@
 # 💫 About Me:
-I excel in cross-platform mobile app development with ReactNative. I specialize in architecting resilient REST APIs, leveraging cutting-edge technologies including FastAPI,<br>Node, and Express. With an in-depth understanding of modern web practices, I’ve contributed to building SEO-friendly<br>frontends using Next.js. and I love working with API‘s.
+I excel in cross-platform mobile app development with ReactNative. I specialize in architecting resilient REST APIs, leveraging cutting-edge technologies including FastAPI,Node, and Express. With an in-depth understanding of modern web practices, I’ve contributed to building frontends using Next.js. and I love working with API‘s.
 
 
 ## 🌐 Socials:
